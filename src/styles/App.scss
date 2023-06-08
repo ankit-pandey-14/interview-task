@@ -1,0 +1,11 @@
+// base
+@import './base/variables.scss';
+@import './base/common.scss';
+
+// layout
+@import './layout/header.scss';
+@import './layout/footer.scss';
+
+// screen
+@import './screens/home.scss';
+@import './screens/hotelDetail.scss';

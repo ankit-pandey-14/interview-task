@@ -1,0 +1,21 @@
+.hotel-detail{
+    width: 800px;
+    h2{
+        color: $dark;
+        margin-bottom: 1.4rem;
+    }
+    div{
+        display: flex;
+        margin-bottom: 0.8rem;
+        &:last-child{
+            margin-bottom: 0;
+        }
+        h4{
+            width: 23%;
+            font-size: 1.2rem;
+        }
+        span{
+            width: 76%;
+        }
+    }
+}
